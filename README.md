@@ -9,7 +9,7 @@ Of course, it's not my real name.
 + GitHub Pages
 + 草活動
 
-#What kind of person am I
+# What kind of person am I
 
 I'm not working However, I am not unemployed. Most people can imagine my profession from this sentence. So I will omit it.
 I am Japanese living in Japan. I can speak a little English.
